@@ -1,0 +1,1 @@
+c:\users\lukasz\documents\visual studio 2012\Projects\FuzzyRules\FuzzyRules\bin\Debug\FuzzyRules.exe.config
