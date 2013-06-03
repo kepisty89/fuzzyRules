@@ -4,12 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FuzzyRules
+namespace FuzzyUtils
 {
-    class Program
+    public interface IFunction
     {
-        static void Main(string[] args)
-        {
-        }
+        double evaluate(double[] x);
     }
 }

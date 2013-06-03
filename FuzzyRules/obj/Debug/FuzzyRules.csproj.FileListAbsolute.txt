@@ -1,1 +1,7 @@
-c:\users\lukasz\documents\visual studio 2012\Projects\FuzzyRules\FuzzyRules\bin\Debug\FuzzyRules.exe.config
+c:\users\lukasz\documents\visual studio 2012\Projects\FuzzyRules\FuzzyRules\obj\Debug\FuzzyRules.csprojResolveAssemblyReference.cache
+c:\users\lukasz\documents\visual studio 2012\Projects\FuzzyRules\FuzzyRules\bin\Debug\FuzzyRules.dll
+c:\users\lukasz\documents\visual studio 2012\Projects\FuzzyRules\FuzzyRules\bin\Debug\FuzzyRules.pdb
+c:\users\lukasz\documents\visual studio 2012\Projects\FuzzyRules\FuzzyRules\bin\Debug\FuzzyUtils.dll
+c:\users\lukasz\documents\visual studio 2012\Projects\FuzzyRules\FuzzyRules\bin\Debug\FuzzyUtils.pdb
+c:\users\lukasz\documents\visual studio 2012\Projects\FuzzyRules\FuzzyRules\obj\Debug\FuzzyRules.dll
+c:\users\lukasz\documents\visual studio 2012\Projects\FuzzyRules\FuzzyRules\obj\Debug\FuzzyRules.pdb
